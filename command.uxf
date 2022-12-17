@@ -1,0 +1,3 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLInterface</id><coordinates><x>520</x><y>310</y><w>120</w><h>90</h></coordinates><panel_attributes>ICommand
+--
++Execute() : void</panel_attributes><additional_attributes></additional_attributes></element></diagram>
